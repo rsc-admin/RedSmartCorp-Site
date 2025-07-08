@@ -1,10 +1,15 @@
-# RedSmart Website
+# RedSmart Consultants LLC – Smart App Solutions
 
-This is a simple one-page website for RedSmart Consultants. To deploy:
+Welcome to the official landing page for **RedSmart Consultants LLC** – creators of multilingual, secure, and affordable AppSheet apps for homes, small businesses, and startups.
 
-1. Push these files to a GitHub repository.
-2. Go to [Cloudflare Pages](https://pages.cloudflare.com/), create a new project.
-3. Connect your GitHub repo and follow the steps to deploy a static site.
-4. Set your domain (e.g., redsmartcorp.com) in the project settings.
+## What We Offer
 
-That's it!
+- **Home & Shared Expenses Tracker** – Simplify group budgeting and shared expenses.
+- **Travel Expense Manager** – Plan trips, manage receipts, and track costs effortlessly.
+- **Mini-ERP System** – Handle sales, purchasing, inventory, and warehouse transfers without enterprise complexity.
+
+## Key Features
+
+- Multilingual UI support (based on user preference)
+- Role-level security for safe data access
+- Built using Google AppSheet (no-code)
