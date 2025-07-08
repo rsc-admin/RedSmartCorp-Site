@@ -11,6 +11,11 @@ body {
   margin: auto;
   padding: 20px;
 }
+.form-wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
 .logo {
   width: 100px;
 }
